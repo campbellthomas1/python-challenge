@@ -10,7 +10,7 @@ In this challenge I organized data from an election to figure out:
 - The winner of the election based on popular vote
 
 ## PyBank
-In this challenge I took budget data figured out:
+In this challenge I took budget data and figured out:
 
 - The total number of months included in the dataset
 - The net total amount of "Profit/Losses" over the entire period
